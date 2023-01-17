@@ -31,7 +31,7 @@ const List<String> cryptoList = [
   'LTC',
 ];
 
-const apiKey = 'D7601F5A-861C-41FB-A685-80EFB1779DFD';
+const apiKey = '';
 const url = 'http://api-ncsa.coinapi.net/v1/exchangerate/';
 
 class Coin{
